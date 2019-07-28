@@ -1,0 +1,11 @@
+{
+  "name": "proyecto-clase-3.4.1-ej-en-clase-2-clase-abstracta-auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Salerno",
+  "license": "ISC"
+}
